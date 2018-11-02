@@ -1,0 +1,506 @@
+{
+    "details": "http://github.com/adamcooke/vat-rates",
+    "rates": [
+        {
+            "code": "ES",
+            "country_code": "ES",
+            "name": "Spain",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 10.0,
+                        "standard": 21.0,
+                        "super_reduced": 4.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BG",
+            "country_code": "BG",
+            "name": "Bulgaria",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 9.0,
+                        "standard": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "HU",
+            "country_code": "HU",
+            "name": "Hungary",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 18.0,
+                        "standard": 27.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "LV",
+            "country_code": "LV",
+            "name": "Latvia",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 12.0,
+                        "standard": 21.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "PL",
+            "country_code": "PL",
+            "name": "Poland",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 8.0,
+                        "standard": 23.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "UK",
+            "country_code": "GB",
+            "name": "United Kingdom",
+            "periods": [
+                {
+                    "effective_from": "2011-01-04",
+                    "rates": {
+                        "reduced": 5.0,
+                        "standard": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "CZ",
+            "country_code": "CZ",
+            "name": "Czech Republic",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 15.0,
+                        "standard": 21.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "MT",
+            "country_code": "MT",
+            "name": "Malta",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 7.0,
+                        "standard": 18.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "IT",
+            "country_code": "IT",
+            "name": "Italy",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 10.0,
+                        "standard": 22.0,
+                        "super_reduced": 4.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "SI",
+            "country_code": "SI",
+            "name": "Slovenia",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 9.5,
+                        "standard": 22.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "IE",
+            "country_code": "IE",
+            "name": "Ireland",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "parking": 13.5,
+                        "reduced1": 9.0,
+                        "reduced2": 13.5,
+                        "standard": 23.0,
+                        "super_reduced": 4.8
+                    }
+                }
+            ]
+        },
+        {
+            "code": "SE",
+            "country_code": "SE",
+            "name": "Sweden",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 6.0,
+                        "reduced2": 12.0,
+                        "standard": 25.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "DK",
+            "country_code": "DK",
+            "name": "Denmark",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "standard": 25.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "FI",
+            "country_code": "FI",
+            "name": "Finland",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 10.0,
+                        "reduced2": 14.0,
+                        "standard": 24.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "CY",
+            "country_code": "CY",
+            "name": "Cyprus",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 9.0,
+                        "standard": 19.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "LU",
+            "country_code": "LU",
+            "name": "Luxembourg",
+            "periods": [
+                {
+                    "effective_from": "2016-01-01",
+                    "rates": {
+                        "parking": 13.0,
+                        "reduced1": 8.0,
+                        "standard": 17.0,
+                        "super_reduced": 3.0
+                    }
+                },
+                {
+                    "effective_from": "2015-01-01",
+                    "rates": {
+                        "parking": 12.0,
+                        "reduced1": 8.0,
+                        "reduced2": 14.0,
+                        "standard": 17.0,
+                        "super_reduced": 3.0
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "parking": 12.0,
+                        "reduced1": 6.0,
+                        "reduced2": 12.0,
+                        "standard": 15.0,
+                        "super_reduced": 3.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "RO",
+            "country_code": "RO",
+            "name": "Romania",
+            "periods": [
+                {
+                    "effective_from": "2017-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 9.0,
+                        "standard": 19.0
+                    }
+                },
+                {
+                    "effective_from": "2016-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 9.0,
+                        "standard": 20.0
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 9.0,
+                        "standard": 24.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "EE",
+            "country_code": "EE",
+            "name": "Estonia",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 9.0,
+                        "standard": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "EL",
+            "country_code": "GR",
+            "name": "Greece",
+            "periods": [
+                {
+                    "effective_from": "2016-06-01",
+                    "rates": {
+                        "reduced1": 6.0,
+                        "reduced2": 13.5,
+                        "standard": 24.0
+                    }
+                },
+                {
+                    "effective_from": "2016-01-01",
+                    "rates": {
+                        "reduced1": 6.0,
+                        "reduced2": 13.5,
+                        "standard": 23.0
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 6.5,
+                        "reduced2": 13.0,
+                        "standard": 23.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "LT",
+            "country_code": "LT",
+            "name": "Lithuania",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 9.0,
+                        "standard": 21.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "FR",
+            "country_code": "FR",
+            "name": "France",
+            "periods": [
+                {
+                    "effective_from": "2014-01-01",
+                    "rates": {
+                        "reduced1": 5.5,
+                        "reduced2": 10.0,
+                        "standard": 20.0,
+                        "super_reduced": 2.1
+                    }
+                },
+                {
+                    "effective_from": "2012-01-01",
+                    "rates": {
+                        "reduced1": 5.5,
+                        "reduced2": 7.0,
+                        "standard": 19.6,
+                        "super_reduced": 2.1
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.5,
+                        "standard": 19.6,
+                        "super_reduced": 2.1
+                    }
+                }
+            ]
+        },
+        {
+            "code": "HR",
+            "country_code": "HR",
+            "name": "Croatia",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced1": 5.0,
+                        "reduced2": 13.0,
+                        "standard": 25.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BE",
+            "country_code": "BE",
+            "name": "Belgium",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "parking": 12.0,
+                        "reduced1": 6.0,
+                        "reduced2": 12.0,
+                        "standard": 21.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "NL",
+            "country_code": "NL",
+            "name": "Netherlands",
+            "periods": [
+                {
+                    "effective_from": "2012-10-01",
+                    "rates": {
+                        "reduced": 6.0,
+                        "standard": 21.0
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 6.0,
+                        "standard": 19.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "SK",
+            "country_code": "SK",
+            "name": "Slovakia",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 10.0,
+                        "standard": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "DE",
+            "country_code": "DE",
+            "name": "Germany",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "reduced": 7.0,
+                        "standard": 19.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "PT",
+            "country_code": "PT",
+            "name": "Portugal",
+            "periods": [
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "parking": 13.0,
+                        "reduced1": 6.0,
+                        "reduced2": 13.0,
+                        "standard": 23.0
+                    }
+                }
+            ]
+        },
+        {
+            "code": "AT",
+            "country_code": "AT",
+            "name": "Austria",
+            "periods": [
+                {
+                    "effective_from": "2016-01-01",
+                    "rates": {
+                        "parking": 13.0,
+                        "reduced1": 10.0,
+                        "reduced2": 13.0,
+                        "standard": 20.0
+                    }
+                },
+                {
+                    "effective_from": "0000-01-01",
+                    "rates": {
+                        "parking": 12.0,
+                        "reduced": 10.0,
+                        "standard": 20.0
+                    }
+                }
+            ]
+        }
+    ],
+    "version": null
+}
